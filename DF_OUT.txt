@@ -1,0 +1,4 @@
+	pChEMBL Value	Molecule ChEMBL ID	Molecular Weight	AlogP	Smiles	Standard Value
+0		CHEMBL1598097	475.91	5.39	COc1ccccc1C(=O)Nc1nc2n(n1)C(c1ccc(F)cc1)C=C(c1ccc(Cl)cc1)N2	23109.3
+1		CHEMBL1315423	383.42	3.31	O=C(NCC(c1ccco1)N1CCN(c2ccc(F)cc2)CC1)c1ccco1	29092.9
+2		CHEMBL1312126	433.53	1.17	COc1cccc(N2CCN(C(=O)C3CCCN(S(=O)(=O)c4c[nH]cn4)C3)CC2)c1	16360.1
